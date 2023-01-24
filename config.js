@@ -110,14 +110,14 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
-global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
+global.pdigi = '60149431385' //pasang no lo sinih buat donasi 
+global.povo = '-' 
+global.pmaxis = '60147675746'
+global.plinkaja = 'wa.me/60189830350' //link aja
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.donasikabul = 'Jasa Sewa Lynn-MD\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
