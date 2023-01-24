@@ -9,9 +9,9 @@ let str = `
 │ • *Telkomsel:* [${global.ppulsa}]
 ❏────
 
-┌─「 Donasi • Non Pulsa 」
-│ • *Dana:* [${global.pdana}]
-│ • *Gopay:* [${global.pgopay}]
+┌─「 Donasi • TopUp 」
+│ • *Digi:* [${global.pdigi}]
+│ • *Maxis:* [${global.pmaxis}]
 │ • *Ovo:* [${global.povo}]
 │ • *Link Aja:* [${global.plinkaja}]
 ❏────`
