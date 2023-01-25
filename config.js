@@ -110,7 +110,7 @@ global.lynk = 'https://lynk.id/botzlynn_'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdigi = '60149431385' //pasang no lo sinih buat donasi 
+global.pdana = '60149431385' //pasang no lo sinih buat donasi 
 global.povo = '-' 
 global.pmaxis = '60147675746'
 global.plinkaja = 'wa.me/60189830350' //link aja
