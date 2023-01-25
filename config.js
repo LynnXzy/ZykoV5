@@ -117,7 +117,7 @@ global.plinkaja = 'wa.me/60189830350' //link aja
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = '-'
-global.donasikabul = 'Jasa Sewa Lynn-MD\nhttps://lynk.id/kabul',
+global.donasikabul = 'Jasa Sewa Lynn-MD\nhttps://lynk.id/botzlynn_',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
