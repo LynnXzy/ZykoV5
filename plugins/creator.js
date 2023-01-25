@@ -11,24 +11,24 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
-• Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• 𝑶𝒘𝒏𝒆𝒓 𝑻𝒊𝒅𝒂𝒌 𝑴𝒆𝒏𝒆𝒓𝒊𝒎𝒂 𝑺𝒂𝒗𝒆 𝑲𝒐𝒏𝒕𝒂𝒌
+• 𝑶𝒘𝒏𝒆𝒓 𝑩𝒆𝒓𝒉𝒂𝒌 𝑴𝒆𝒎𝑩𝒍𝒐𝒄𝒌 𝑻𝒂𝒏𝒑𝒂 𝑨𝒍𝒂𝒔𝒂𝒏
+• 𝑩𝒆𝒓𝒃𝒊𝒄𝒂𝒓𝒂𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑺𝒐𝒑𝒂𝒏 𝑫𝒂𝒏 𝑻𝒊𝒅𝒂𝒌 𝑺𝒑𝒂𝒎
+• 𝑶𝒘𝒏𝒆𝒓 𝑯𝒂𝒏𝒚𝒂 𝑴𝒆𝒎𝒃𝒂𝒍𝒂𝒔 𝑩𝒆𝒓𝒌𝒂𝒊𝒕𝒂𝒏 𝑩𝒐𝒕
+• 𝑵𝒐 𝑻𝒆𝒍𝒑`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Zyko-MD
-${htjava} *♂️ Gender* : Boys
+${htjava} *💌 Nama* : Lynn-Md
+${htjava} *♂️ Gender* : ?
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18 🥶
-${htjava} *🧮 Kelas* : private
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Sukabumi
+${htjava} *⏰ Tanggal lahir* : 05 April 2007
+${htjava} *🎨 Umur* : 15 Bocil
+${htjava} *🧮 Kelas* : 9 smp?
+${htjava} *🧩 Hobby* : Turu,Anime,Futsal
+${htjava} *💬 Sifat* : Malazz
+${htjava} *🗺️ Tinggal* : Malaysia,Sarawak,Kuching
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 ${htjava} *💌 TY:* ${syt}
