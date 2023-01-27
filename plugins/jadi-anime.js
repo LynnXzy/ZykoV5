@@ -10,7 +10,7 @@ if (!mime) throw 'Kirim/Reply Gambar dengan caption .jadianime'
 m.reply('ᴛᴜɴɢɢᴜ sᴇᴅᴀɴɢ ᴍᴇᴍᴜᴀᴛ ɢᴀᴍʙᴀʀ ᴡɪʙᴜ')
 let media = await q.download()
 let url = await uploadImage(media)
-let hasil = await (await fetch(`https://api.zahwazein.xyz/photoeditor/jadianime?url=${url}&apikey=85345ee3d9de`)).buffer()
+let hasil = await (await fetch(`https://api.zahwazein.xyz/photoeditor/jadianime?url=${url}&apikey=d4422bbc903c`)).buffer()
 await conn.sendButton(m.chat, `ANJAY ${name} WIBU`, 'ʟᴀʀɪ ᴀᴅᴀ ᴡɪʙᴜ', hasil, [['Donasi', '.donasi']], m)
 }
 handler.help = ['jadianime']
@@ -19,4 +19,3 @@ handler.command = /^(jadianime)$/i
 handler.limit = true
 
 export default handler
-
